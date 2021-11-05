@@ -5,4 +5,6 @@
 - 📫 How to reach me yudoworks@gmai.com
 
 <h2> Skills</h2>
-<a https://github.com/YudoWorks?tab=repositories&q=java&type=&language=&sort= > <img width ='32px' src ='https://github.com/YudoWorks/YudoWorks/blob/main/java-logo-vector.png'> </a>
+<a href= https://github.com/YudoWorks?tab=repositories&q=java&type=&language=&sort= > <img width ='32px' src ='https://github.com/YudoWorks/YudoWorks/blob/main/skills_logo/java.png?raw=true'> </a>
+<a href= https://github.com/YudoWorks?tab=repositories&q=javascript&type=&language=&sort= > <img width ='32px' src ='https://github.com/YudoWorks/YudoWorks/blob/main/skills_logo/js.png?raw=true'> </a>
+<a href= https://github.com/YudoWorks?tab=repositories&q=ruby&type=&language=&sort= > <img width ='32px' src ='https://github.com/YudoWorks/YudoWorks/blob/main/skills_logo/ruby.png?raw=true'> </a>
