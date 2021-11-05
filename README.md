@@ -1,5 +1,7 @@
+
+<h2>About Me</h2>
+
 - 👋 Hi, I’m Yudo Kartiko
-- 👀 I’m interested in finding my self
 - 🌱 I’m currently learning fullstack (react, express) with unit testing
 - 💞️ I’m looking to collaborate on ruby, java, javascript project
 - 📫 How to reach me yudoworks@gmai.com
